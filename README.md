@@ -1,2 +1,2 @@
 # StateMachine-Quiz 
-<image src="image.jpg"/>
+<image src="image.png"/>
