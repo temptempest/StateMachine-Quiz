@@ -1,2 +1,2 @@
 # StateMachine-Quiz 
-<image src="image.pdf"/>
+<image src="https://github.com/temptempest/StateMachine-Quiz/raw/main/image.pdf"/>
